@@ -9,10 +9,12 @@ For testing I used the mocha framework.
 # Installation
 sudo docker build -t  ioet-acme .
 # Usage
-To execute use the command:
+**To execute use the command:**
+<br>
 sudo docker run -it --rm ioet-acme
 
-To test use the command:
+**To test use the command:**
+<br>
 sudo docker run -it --rm ioet-acme npm run test
 
 
